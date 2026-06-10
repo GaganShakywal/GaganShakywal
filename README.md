@@ -20,6 +20,15 @@ Final year Undergraduate at SKIT Jagatpura, Jaipur<br>Currently working on the G
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=GaganShakywal&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=GaganShakywal&theme=dark&hide_border=true)<br/>
